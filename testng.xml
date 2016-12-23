@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="POM Framework">
+    
+       
+  <test name="Login Test">
+  
+		    <classes>
+		           <class name="com.twitter.testcases.LogTest"/>
+		    </classes>
+		    
+  </test>
+      
+  
+
+   
+      
+</suite> 
